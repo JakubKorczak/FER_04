@@ -1,0 +1,9 @@
+node_modules
+.idea
+*.iml
+package-lock.json
+lab.*/*
+.directory
+/backup/
+repo
+repo2

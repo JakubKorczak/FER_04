@@ -1,0 +1,18 @@
+{
+// Configure your Run and Preview buttons here.
+
+// Run button configuration
+//  "commands": {
+//        "Build": "cd hello; make",
+//        "Run": "cd hello; ./hello"
+//  },
+
+// Preview button configuration
+//  "preview": {
+//        "Project Index (static)": "https://{{domain}}/{{index}}",
+//        "Current File (static)": "https://{{domain}}/{{filepath}}",
+//        "Box URL": "http://{{domain3000}}/",
+//        "Box URL SSL": "https://{{domain3000}}/"
+//  },
+//  "debugger": [{"type":"JAVA","command":"-agentlib:jdwp=transport=dt_socket,server=y,suspend=y,address=5105","before":"cd debug && javac -g -d . DebugDemo.java && java -agentlib:jdwp=transport=dt_socket,server=y,suspend=y,address=5105 DebugDemo ","single":true,"path":"DebugDemo","args":"","rootFolder":"debug","uuid":"701941e9-b409-8ea3-f707-31de09811881","name":"Debug Demo"}]
+}

@@ -1,0 +1,49 @@
+.menu li {
+    display  : inline-block;
+    position : relative;
+}
+
+.menu ul {
+    list-style : none;
+    width      : 100%;
+}
+
+.box {
+    width            : 150px;
+    height           : 150px;
+    background-color : antiquewhite;
+    border-radius    : 5px;
+    border           : black 2px solid;
+    margin           : 20px;
+}
+
+.big {
+    width  : 80%;
+    height : 300px;
+    margin : 20px 10%;
+}
+
+.element {
+    padding       : 50px;
+    border-radius : 5px;
+    border        : black 2px solid;
+    margin        : 20px;
+}
+
+.finished{
+    text-decoration: line-through;
+}
+
+.hide{
+    display: none;
+}
+
+.mobile-menu-btn .fa-bars{
+    font-size:2rem;
+    padding: 5px;
+    display: inline-block;
+}
+
+nav.mobile li{
+    list-style: none;
+}
