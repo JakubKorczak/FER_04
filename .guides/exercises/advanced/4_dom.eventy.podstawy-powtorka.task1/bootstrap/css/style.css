@@ -1,0 +1,15 @@
+.hide {
+    display: none;
+}
+
+a {
+    border:1px solid;
+    padding:10px;
+
+}
+
+.box{
+    display: block;
+    height: 100px;
+    border: 1px solid #cacaca;
+}

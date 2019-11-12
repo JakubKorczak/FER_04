@@ -1,0 +1,20 @@
+.horizontal{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+
+.vertical{
+    display: flex;
+    flex-direction: column;
+}
+
+.horizontal li, .vertical li{
+    list-style: none;
+}
+
+.horizontal a, .vertical a{
+    display: inline-block;
+    padding: 5px 10px;
+    text-decoration: none;
+}
